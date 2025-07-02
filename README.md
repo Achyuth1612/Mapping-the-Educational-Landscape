@@ -22,10 +22,14 @@ Matplotlib, Seaborn (for visualization)
 Jupyter Notebook  
 
 🚧 Challenges & Solutions   
-Challenge	                                         Solution
-Inconsistent HTML structure                  Built flexible scraping functions with exception handling
-Missing or incomplete data	                 Applied imputation and filtering techniques
-Data complexity and cluttered                plots	Used grouped bar charts, heatmaps, and layered graphs for better clarity
+Challenge:                                      
+Inconsistent HTML structure                   
+Missing or incomplete data  	                
+Data complexity and cluttered                  
+Solution:  
+Built flexible scraping functions with exception handling  
+Applied imputation and filtering techniques  
+plots	Used grouped bar charts, heatmaps, and layered graphs for better clarity  
 
 📈 Outcome  
 The project successfully generated visual insights into the structure and accessibility of higher education across India. It provides a foundation for further research, policy assessment, and institutional benchmarking.
