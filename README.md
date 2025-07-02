@@ -40,5 +40,5 @@ Build an interactive dashboard for better accessibility
 Automate data updates using scheduled scraping  
 
 🔗 Author & Acknowledgments  
-Project completed under the mentorship of ExcellenC Institution
+Project completed under the mentorship of ExcellenC Institution  
 Developed by [ACHYUTH]
