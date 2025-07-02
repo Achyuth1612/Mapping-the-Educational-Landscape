@@ -4,7 +4,7 @@ This project aims to analyze and visualize the higher education landscape in Ind
 🧠 Project Objective:  
 To build a comprehensive understanding of India’s educational system by collecting, processing, and analyzing data from various sources. The goal is to generate actionable insights that can benefit students, educators, and policy-makers in making informed decisions.
 
-🔍 Key Features:
+🔍 Key Features:  
 ✅ Web scraping of educational data from platforms like Careers360
 ✅ Data cleaning and preprocessing using Pandas and NumPy
 ✅ Visualization of insights with Matplotlib and Seaborn
