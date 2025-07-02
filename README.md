@@ -33,3 +33,12 @@ plots	Used grouped bar charts, heatmaps, and layered graphs for better clarity
 
 📈 Outcome  
 The project successfully generated visual insights into the structure and accessibility of higher education across India. It provides a foundation for further research, policy assessment, and institutional benchmarking.
+
+📌 Future Enhancements  
+Incorporate more metrics like placement statistics, faculty quality, and student feedback  
+Build an interactive dashboard for better accessibility  
+Automate data updates using scheduled scraping  
+
+🔗 Author & Acknowledgments  
+Project completed under the mentorship of ExcellenC Institution
+Developed by [ACHYUTH]
